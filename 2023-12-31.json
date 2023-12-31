@@ -1,0 +1,26 @@
+{
+  "name": "Minnie Francis",
+  "age": 36,
+  "address": {
+    "street": "Filca Key",
+    "city": "Hohmave",
+    "state": "FL",
+    "zip": "42118"
+  },
+  "contact": {
+    "phone": "(453) 602-2356",
+    "servicePhone": "800636768"
+  },
+  "birthday": "2000-12-22T09:03:39.770Z",
+  "ip": "153.167.57.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Jev bebfak ro vumvulof ecivra tow sun wogap ellumzaz go do pi nig tosbito busof kunvu bajbefeg. Uv idfenud egzufnez ruvmomte fomahfev mo dowdolno zowud wofaj ebwave fok og mozfo. Rucvusul biv kagvuti gev im vaunhog sepucpuk raktul oc madlaptuz fo omhod isaek.",
+    "bio": "Dezigme kegwe god epo juk jenogrel henwidoz gewipwa vijur het lug hajar azopewe za ot iwuceve iwa lo. Ci fo ci be fim zuz se su jezabje vizo betzet we dasah cuj. Kosgacif javlawij juk vabwik inobagkuw hoedo ne kipuc pucem jaswarbar ra hifabuj migum atopurfi."
+  },
+  "apiKey": "f4d150a0366c7031270d396197b01b83deb66b49703717b60e7f7071ca8d231e",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}

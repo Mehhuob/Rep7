@@ -1,0 +1,26 @@
+{
+  "name": "Aaron Sparks",
+  "age": 53,
+  "address": {
+    "street": "Tegaj Highway",
+    "city": "Balevigu",
+    "state": "MS",
+    "zip": "16793"
+  },
+  "contact": {
+    "phone": "(522) 654-4417",
+    "servicePhone": "800433873"
+  },
+  "birthday": "1999-04-07T08:02:42.442Z",
+  "ip": "200.10.31.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Divisga kafgajno ta ereika ta so olfeaj oju wo sas kudec bavnuta cemoluvi duvi uzajizpa. Le ire puh ro gejusad zuow wu wirvuk muhu ca gisamib tavcu tuwpuszi. Hiafati bazizhig iwa ej ler souj olueb nolape ranmojaf na lip vir okbamsel he luvce lusvaow. Esale hibret latnecmem nofuv sev sim de dibulupa jan vimbik udace daano zij wiovu vectihkiv. Jipos icakeduj hib dijpo mi wi epabibu pevle dic zamtekuk ogmuhup bager ge. Fizo sacku guemucow rezwojsew bow guve lo kon zotzeneto pir difijas vuwoj mareih.",
+    "bio": "Noc gubba zauzofe cosoc izbavhuz evnomut co nob zorjef rucat mecjulkes nerhiwid. Vazafza ifukuve ni hoc vobkidsu juwa dus ri misecauc zu nubrof tek. Ucnefaju mobusoc sugamur havednug wi kenehir idoege huluk woewa ivegipi wirnib launumi leguc. Rufenesuz usoavo nawudsi urdukwen bejejag zumu jaruwiim didfa uze tajule wuk bu dogwuwiz polu meba. Vona fofop pogbeval folien pirvej jimalva kanac zaze sabfowa cauv na ne wermi okguwuw rerabpaw cam fat nerihak."
+  },
+  "apiKey": "dc2860d7e9f36c9cf01881e121f7c35fb3522f482b6d10712724cc8527e947f5",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Charlotte Swanson",
+  "age": 59,
+  "address": {
+    "street": "Poaso Pike",
+    "city": "Weficno",
+    "state": "WI",
+    "zip": "70440"
+  },
+  "contact": {
+    "phone": "(847) 761-6664",
+    "servicePhone": "800694896"
+  },
+  "birthday": "1978-08-28T01:28:52.331Z",
+  "ip": "210.182.196.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Imfacuz beh tubedgam dip rapabted va sifasjo ji daewozad woz okewih ibud. Sogiplat cisiso li ca padga dido vew pavgi iv jo defaf picu den jalfuv sopemasi lifzahe ilike ebna. Fec sutpofo kute nodokoze tukac efohado ke mul po riw set sef jinverod pec kogwu uha do rumhefhuv.",
+    "bio": "Ca nodke jim he af dipekiw vugin otu zorofivu tiaw ehbos pebogfak jij tulrom cik ododo. Pij lufupi orta hupgewzok ruksoz ko tugaow rana ozwafu hewimra joz agaz bafiz jo cer gouhetuz pur. Tuz feebta vi rono pik unbot sejvojal rovnu herenmuz uw vi vatod vupiwo fis."
+  },
+  "apiKey": "9924c912617bc965dffaed0f4ed6d650d2e7aaf10f4e6eff3fd205cfe9227fe9",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}

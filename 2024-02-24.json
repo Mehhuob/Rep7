@@ -1,0 +1,26 @@
+{
+  "name": "Christian Salazar",
+  "age": 21,
+  "address": {
+    "street": "Ohice Place",
+    "city": "Gesunget",
+    "state": "PA",
+    "zip": "86949"
+  },
+  "contact": {
+    "phone": "(683) 684-6581",
+    "servicePhone": "800921218"
+  },
+  "birthday": "1988-01-18T02:42:36.395Z",
+  "ip": "99.209.104.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Akwu wevnohce luv izi necnen fepbofcim futhiev rowbazhur hugojusug ajlo amijim zozaznur zeena ravil nalulu. Owpik vosemru zesev oni oba ces dijta of iwdo jonetek su zus zudip mimkeb vupovel. Zofodmew filnab peanabi fijporhu rebi ijawacaz uhenabda ikapilo ejeac joobi uptej ho uc kuiwaepi. Lojihi ref hu huzugeb na odidowal ben jidisfi kihco ehuku rocke ji wipontec inuwoduk ut mu fum. Etaja le idu telmagip ecewo tukun wiujofe gu ha gowfekan ob ne moovvow co su merolu wo.",
+    "bio": "Nim covjam nohpet ise becro hi tuku ilworfar vies zorrowam awgezuj kodjem teg ni tuwaiv. Abewu kujet ze cowonogo pufe bu jaugga voojmi lufovi zigal bud mod zec cofokuf doij tihde coiha. Doweciti igu lisru saifuza ivgajema beupcef dib uzgirzus sakosbim epola ima renetwu juka hovnauga. Turdauc mohof awwugsug giiro vepwaju hobowpah ok ril behkovdoh da lujbocis riguf na tuwuba uhadi ivazu. Du cor ni awega vuffi sobef kigbud diedo ja sasfosoca poama wad biote wotez ic op edukip. Lotrak tezbu megiug mitrice tud zit lafi wiwa zedad fojes semjacwa fevuvo me wel futen hepdeena gi awi. Lej sovha hej ozuja kavikalu nemuhu ezooluvek soarlof cicbude booj ehoni kuduvno zoko joafuetu buvuj pojte."
+  },
+  "apiKey": "adb76a366a072774b91b5def9cbd206a8edfb49d9b1f5b63aee3250c5f7c061a",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

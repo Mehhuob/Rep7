@@ -1,0 +1,26 @@
+{
+  "name": "Aiden Ferguson",
+  "age": 39,
+  "address": {
+    "street": "Zome Trail",
+    "city": "Vowenag",
+    "state": "ND",
+    "zip": "49702"
+  },
+  "contact": {
+    "phone": "(260) 882-5576",
+    "servicePhone": "800253172"
+  },
+  "birthday": "1990-07-17T12:38:39.893Z",
+  "ip": "156.143.156.241",
+  "foo": "bar",
+  "profile": {
+    "about": "Abacozuw ca duvsih lavkevaha mel lewlabun ucolucefi semaz jagdufab ojowe ifnag hac mowavu. Mafvodmel po jeanven kankugo sa cejipbe wi dozifatu awosa mijtig avci muz golcirap poh. Ubdav pog nigdal od fos en ane vugejij vubde naaffe iwajim im ancuad wihcel. Pubdesto fudolta ogvob tapo mipoh radsi wifukdil ejjiba nogkiik du ti mo roaki so el zivdanrej. Tubziv sitab dur rohwiku nila uloite hevfur ecu ta lacifluf du bomu siohuic hu cukebwo jelo lades. Tuwuwas usuz gi jaf olokev vicwak det er gi obu zuwa tidi hel dusafak za mutu li.",
+    "bio": "Covgul ekainu piljum ul ifuwaruw cuoswaf vuijgib fotcivhan envunem jeffomiji gu giktemug ipujoh tuiklow ki raj. Vifbo eha hawebka ipibeknaz seh oh zo duvow dufis jivuiwi akapebho sutat. Kaw lokofor daj nuj zuupi nit inako nizehal fuhla po lusiw iweuf bainir nivamo."
+  },
+  "apiKey": "6ca20aefbce96cd3733b8d85f3e0492a4ec88b313d44a19bdea2d96e31c79b51",
+  "currency": {
+    "code": "XDR",
+    "name": "International Monetary Fund (IMF) Special Drawing Rights"
+  }
+}

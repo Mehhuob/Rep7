@@ -1,0 +1,26 @@
+{
+  "name": "Della McCoy",
+  "age": 56,
+  "address": {
+    "street": "Koblu Grove",
+    "city": "Kununa",
+    "state": "AR",
+    "zip": "41830"
+  },
+  "contact": {
+    "phone": "(736) 327-4413",
+    "servicePhone": "800428147"
+  },
+  "birthday": "1962-02-26T11:48:57.382Z",
+  "ip": "86.46.103.154",
+  "foo": "bar",
+  "profile": {
+    "about": "Wut jiwfagot mitjebic mal redud obek ow lefi gukpom ah buwivecih vuogre. Geec pu zerbuj gu to ewrod adihazul fomuf ut hiami fugok wujeafa ofrolo vi elalad cuj. Aduwumud aseg cidoiw nu ve tamesebu fun kahamtev zojwik fezoceg wouciepa tufu omuut urunikep je wokoce.",
+    "bio": "Dabit burpe ozajozete rirrab ofi hokho cum mo se tieni sogoguv ruuga ruh oge hawgu. Meksad gi kaep vekzivsu jufzu ri fin lisohef wewi nerakom dabgegzet lut coowo. Ruvsiaga ke lubtej nikkal olocewhav muz zuviwfef vi jarvo vognuzoki ollevnow veg vozagohim te advospi ti."
+  },
+  "apiKey": "301dc432686d27f098dcaa1b4f468b01e61f8b9d37080fc645b8fbc478f22c87",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}

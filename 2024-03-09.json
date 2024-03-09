@@ -1,0 +1,26 @@
+{
+  "name": "Bess Malone",
+  "age": 48,
+  "address": {
+    "street": "Nume Pass",
+    "city": "Teapgu",
+    "state": "WV",
+    "zip": "44754"
+  },
+  "contact": {
+    "phone": "(751) 378-1525",
+    "servicePhone": "800484811"
+  },
+  "birthday": "1990-06-18T11:21:41.325Z",
+  "ip": "21.39.144.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Bo liim si ulnu ogkofmu kujococe ukidiwu malze osfa lawujipag onatev gebuluz osa eb seojaza. Re foduej uwpub jibo fu piji si cagmelib dag ca zamgatu teca tejav akobuodu. Nop bu nen jojta gubajawoc hok ajmu natulhuc cu cehopoh wo se wecun heko heb nu.",
+    "bio": "Ifwar pagidad bod sap marfuz ojo hez ek uje il didlijgis zupi. Bemlo pi kag zanocev areuh re zak wafuoca bas vajiwos eturawpo humi. Pehroro huc pul nojiad cu gelce obanu nog ajzeg paudi viktuf lohewuda ku hi ogdo zeviluuf sulgi netofimub."
+  },
+  "apiKey": "5415d660952603f78b6051085a021e6a0f723130be7f5c5c63bbf5f393e16e61",
+  "currency": {
+    "code": "BHD",
+    "name": "Bahrain Dinar"
+  }
+}

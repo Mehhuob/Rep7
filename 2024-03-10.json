@@ -1,0 +1,26 @@
+{
+  "name": "Gavin Robbins",
+  "age": 20,
+  "address": {
+    "street": "Miev Way",
+    "city": "Camasa",
+    "state": "ID",
+    "zip": "24502"
+  },
+  "contact": {
+    "phone": "(348) 804-4918",
+    "servicePhone": "800856663"
+  },
+  "birthday": "2005-08-12T01:04:35.762Z",
+  "ip": "116.246.163.160",
+  "foo": "bar",
+  "profile": {
+    "about": "Jaztiwi ezket vuk ebohup udu gesi me bev fut niboz lomog um juwced apugum keggut. On re daij picbahlan kun zazuwe parogu diojo zeebiveb azwapkej opowekaf ge ipa ubhurruw. Cu zokid vozolzuk soag lu solpupimi sariwwik utubof ruko bihwevac barazdot kudtozu wo hoci jormul ufoseube bewiw piccubni. Ofker diruli taz os ni huvufit budij udewam caap zefu vulrodipi pegifip. Lov kafimaun bus gurosli ti ziugu laibiol bewasmow mosuswat buniknal amalijec po katasvir zevjo zaon tece soze lelvog. Poclef naizi new cag an zutowek anije pif saliris va dotit halkihwa nacaz.",
+    "bio": "Awe vetiz dihwocgok lezabzu cafwatic diripsuz buw mide piuguw fekavuic hepwoz ohaowasi dour ven jo diefeani zuc fugih. Gu fuwjamnug lepuf duj na pup idi facer sunnenoj powfilu furaolo rinmuzup co. Joidiamo umukofih pukkef cu sozul felruuni top gargu enooze wo lamokzon ruan fom lu ije."
+  },
+  "apiKey": "62b901375e86d38147fc3b77cf5e4a260a958dd4c5e6d2b80d7f6bf0da166939",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}

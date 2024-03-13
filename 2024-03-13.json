@@ -1,0 +1,26 @@
+{
+  "name": "Irene Snyder",
+  "age": 20,
+  "address": {
+    "street": "Wuhu Pass",
+    "city": "Wegawer",
+    "state": "AK",
+    "zip": "96341"
+  },
+  "contact": {
+    "phone": "(753) 859-9882",
+    "servicePhone": "800666175"
+  },
+  "birthday": "1992-11-13T09:44:52.534Z",
+  "ip": "121.221.209.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Gaz kannu wab gad hogitza nuvru ata pociw rahbe jekah ces nagsa kabe rejebi mohfiwi cokzor sejufro. Dezi zomej foj rohobto tebjekiwa rurama sopale cidisu man ma huco titidofiv. Gad amuoveneb lide huj ogka efemozi aho gois omoj em cilva ahila pa mujuure.",
+    "bio": "Ja rujor dofida re tudtemke ogrilgu cej putiz pud ulfoz ko fogoh vebek behzu. Apeja ed co jirsizam nisid ma ig meg efuve lod apjansek sozorti zon. Noli wieda wehizan pu vagekot zohem gusoc zob iwe tivo wusec ti ka urkijge za tut sab ticwacdip."
+  },
+  "apiKey": "cd433f5dafdf472812bab3f365074fca6bcb937ee79dff23ad5717e25aa06430",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}

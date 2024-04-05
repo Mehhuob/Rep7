@@ -1,0 +1,26 @@
+{
+  "name": "Alberta Gill",
+  "age": 60,
+  "address": {
+    "street": "Efevel Pike",
+    "city": "Diruta",
+    "state": "RI",
+    "zip": "80319"
+  },
+  "contact": {
+    "phone": "(752) 764-2067",
+    "servicePhone": "800846678"
+  },
+  "birthday": "1988-05-24T01:04:04.158Z",
+  "ip": "211.237.243.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Ji ekmo filbi du pabbu ib wowa zamiwa azo ov kazroh cogoaz genew jup. Bis cumsonhi irojen ra azu uw cecesata udaal kihi hed wel tiel dih. Gu lonheg esne vejpaiki uhfama ketisi nitfereh soz ut sezmif kadjebto pe cikge oz ab ekeetme folzenafo.",
+    "bio": "Dosaf avmemaw vain di ji hacozbud tiv pisej lotewev fewo lifaewi de wozi atimensu wanoz pelapige be. Il co samfude vehti izo enitdor dod remnadli ecjujziz vi mufcaez hozru dafaco. Ok foelmu kucke dutulela farbalif rasgocgec uhofogok salic in jun nidaceh vo. Awsuspe pun eguzipo te wancoh veh fuvusut ohebaiti jasi owuvab boc zavavud va bawaj futajve ut cuzjewuc kiwuz."
+  },
+  "apiKey": "913f67a295c1df8d692bda566367d588a366e0636f43590c01af5b0df3399f3e",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}

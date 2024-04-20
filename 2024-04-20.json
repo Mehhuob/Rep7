@@ -1,0 +1,26 @@
+{
+  "name": "Betty Carlson",
+  "age": 60,
+  "address": {
+    "street": "Loij Circle",
+    "city": "Kizebke",
+    "state": "RI",
+    "zip": "97010"
+  },
+  "contact": {
+    "phone": "(464) 975-2871",
+    "servicePhone": "800261221"
+  },
+  "birthday": "1988-11-18T10:05:58.222Z",
+  "ip": "168.168.8.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Taguohi eluje risamaj kege tip pide re ohosoto nebecis wechisran narbul gihuboh zimli cuarju. Zahunheg po ravfaoro won ezaipe kag zuogvi goteg guem beh medwipav juka danulod dofad kesem hibot. Zu vosuvo wirne bumacfuh fobjic weckek omufifi cuhaduj uvpon miotu ufbeak vo iretu egdephak wa itsi. Podezmab ikepuan jul tacikag nu faenta tac ori riwi suvzugze sojij dotupe.",
+    "bio": "Ruggu enmuh dacelo eje tebujok da soviru izlufuhu tovufas oza ligogla tebev ag aco guj cicak ece. Ludhuzuk sojdarus egu hus ibhovuh pan opoumupe fob duvvagut afo fumecij ile wicbo muk bo towhi. Ba vi lo kaelatuk fukuf det kavuka redudrij beog vuezciw tomoso juz cop limsem sode ji bap vu. Zozediv vih gulag iko zigici bata zoohu pef ewacotuj fuhuzra olwene nuero dibvizod cigompik bowbi. Lafamur gi secekfun luhuzoc udaosa nozubaz dudjico tan uriwe ag jenomnul ihbodi ragub gedatgih."
+  },
+  "apiKey": "429e63e908afa18b52754ee16d2ac806dacd45011de1360b85bfa74e588d5858",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}

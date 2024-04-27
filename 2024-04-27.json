@@ -1,0 +1,26 @@
+{
+  "name": "Sam Barton",
+  "age": 29,
+  "address": {
+    "street": "Saig Turnpike",
+    "city": "Liuzve",
+    "state": "ND",
+    "zip": "13134"
+  },
+  "contact": {
+    "phone": "(554) 834-4602",
+    "servicePhone": "800535469"
+  },
+  "birthday": "2003-08-26T10:36:49.364Z",
+  "ip": "83.85.6.238",
+  "foo": "bar",
+  "profile": {
+    "about": "Raigueho nawi cuhaid ka ot ratimeew covvusar tu cif bi lop wohicsib vopahen. Jom ohotiggaj obdi ohuvi satformo ham gesebti mufdu sima benwaw gib omnoc zijwoh. Wetomak sim ena ju loru hafkiz bodronib gimno fo gumnera vowfu joro duhumo zutbut cipiw.",
+    "bio": "Pi suhuze muneciz ifasufku ilo va sahene buzogasew tav coimero burati hibvih pudej vovegi gago ke ojamamit. Ovopubti iwi pub dunlaj didajac no zo parju hiro zepic luk tunihne bahdaju jac gewafal cagi wi. Toletu nor kakami ricul bav hi wa latwubna utefaskup guvvup ule kiviwguj dopirzow loosi lace ferjagla kaj. Riavahu ebtut nikaif bi viv jo ri mir sepivav bezuir odpi dejwuwus aluharla mapdepso medajahul zuleras mokner vamgosata. Kiehlo veso agir omitam pek meeha sete biv nat sun ku mocikok."
+  },
+  "apiKey": "2a3a2fbf4b548c29a884d38df69070e1296a99e8d1f589ec1415b69003350ae5",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}

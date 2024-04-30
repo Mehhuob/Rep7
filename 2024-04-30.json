@@ -1,0 +1,26 @@
+{
+  "name": "Winnie Perkins",
+  "age": 36,
+  "address": {
+    "street": "Otrat Square",
+    "city": "Vodmawas",
+    "state": "KS",
+    "zip": "64573"
+  },
+  "contact": {
+    "phone": "(665) 413-2853",
+    "servicePhone": "800245187"
+  },
+  "birthday": "1999-11-22T01:45:43.182Z",
+  "ip": "57.187.89.43",
+  "foo": "bar",
+  "profile": {
+    "about": "Dosefo uv rastatbib mocte jitisezu laeco lup capengu ihow lutabke tak hojvunuj. Dukure somos vuwupze gudtow beovetec badaf ate wizeive pusa darkoinu hotcihah iwi be fakjorzo. Aja ilke juh gin toknaz minso uc rufrupke hale nubzu fafdod owa liha hujziku ojo honce.",
+    "bio": "Et taloco gezwa vozdib fokbaspog gow letaf aca vov ka luda bo. Bukijhe fuven vim oka gunoegu seg mibze juluf gif igrok nuapo gebem na ejmaw. Razvelit dimiw fu luhbaug tewecer ekasola se gimojre durep agewgij emdot ozabuf."
+  },
+  "apiKey": "1d66462c97cb286426060aa60570dc4904ceedc2bcd51feafee26afb0cda923d",
+  "currency": {
+    "code": "TMT",
+    "name": "Turkmenistan Manat"
+  }
+}

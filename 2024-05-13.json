@@ -1,0 +1,26 @@
+{
+  "name": "Mike Simon",
+  "age": 21,
+  "address": {
+    "street": "Lonmuk Pass",
+    "city": "Secodni",
+    "state": "ND",
+    "zip": "41101"
+  },
+  "contact": {
+    "phone": "(985) 760-4685",
+    "servicePhone": "800814378"
+  },
+  "birthday": "1999-09-12T08:49:57.305Z",
+  "ip": "248.63.144.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Gugud mosvo fawetef fa tadijho pozogo eb debat ifodesod vozemti kelof su corbuzda gew feg levbeub lefneemo. Si joricunow awaub awemofo ucu vegiw azubuco ukapobjo wogzaket uperig lilil apvu houwagep durun. Jomis hi lovzu kepnuke dirle iwtuze fus migufu mowpolo zuwicpe da netful ri. Tar ho rapaf wehnuiw zovovit vinohi ili ha sasupje boijjef ve remto zuk bov uzi zospa okkuz nefmoari.",
+    "bio": "Rih ha ifdum disehi pudlig joc rokazak afvovmep lelaeva asiziwop poc noekipef jippon se zujlivbo. Du wotbuge ba asu hemlet tafazij joimu giptuwav muwev ce tigojuvec zahrernu he ocgo jicuma. Cascekog fi caw feamejod betwuw locubruc fofgo sumka kikuj sailo voh awdolpo diicte. Isawikahi fuati motig tofa ke onevuh tiwboghi pocuvvu rozfig vo uji wuad ni ujope fujieg jigi. Tetleet jo umimape fakadhe nefewad decgiaso zafgidip rudog jasumih uru vital do ataricmi ni wuv modzek. Be fan acdoh ilikozru beuvi re pezkawse budewoapi aluet wi irtoppig dec rian paheh esu hal."
+  },
+  "apiKey": "c9e29524da77854b90118852e018ac0cc00ee746019ece7749bfb55d5ab86965",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}

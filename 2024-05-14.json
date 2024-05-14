@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Douglas",
+  "age": 33,
+  "address": {
+    "street": "Ekco Extension",
+    "city": "Uketatir",
+    "state": "RI",
+    "zip": "56405"
+  },
+  "contact": {
+    "phone": "(524) 673-5507",
+    "servicePhone": "800353728"
+  },
+  "birthday": "1959-10-16T10:53:29.072Z",
+  "ip": "157.235.61.254",
+  "foo": "bar",
+  "profile": {
+    "about": "Reja owfak ru ahleh cuv bu ceeha endi ottoec bugked zivdud jeduhuf nefoblej vap gom. Dofiz rakkak asuasa wa waw guvwakad ho ki ega vik ehivo rentekola. Foseli vami darhi igutu napefne lijacvi evlutit culeaje honticpow wigikhi korak degji nazafpih rimeh fearugac ewo guvutuv maguzfa.",
+    "bio": "Honjihof fid moger re vogolzer ewtoov pal met miktilzen sopufecu rud ejhuc matjos ogoowhon dor ve izeliti. Ukedi kopdase ewotiwdip rubief kud wefil iffiv we afzi emi sobogsi vejuip ez vehes rumiwej savos. Lab alnu cagdatka lipapefo zo mugec fosu oz namad zukvep desve reri. Gajip ro azeb dodjehvoh tapok ko oniadku nose raodi uvu soh fah pin."
+  },
+  "apiKey": "b7c5067773d2fc3df81af6929c3728b2ec86845c616b187a661875e8a03e5069",
+  "currency": {
+    "code": "NPR",
+    "name": "Nepal Rupee"
+  }
+}

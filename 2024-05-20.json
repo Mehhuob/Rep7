@@ -1,0 +1,26 @@
+{
+  "name": "Dorothy Fields",
+  "age": 29,
+  "address": {
+    "street": "Pumeh Highway",
+    "city": "Rimkocih",
+    "state": "TX",
+    "zip": "20325"
+  },
+  "contact": {
+    "phone": "(843) 906-6762",
+    "servicePhone": "800663431"
+  },
+  "birthday": "1983-02-22T08:14:51.872Z",
+  "ip": "171.28.25.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Fabdaid umigowe lodunef jep tip lujezpu il cuwullog vidiwubir pez ca ku wilat av ku nifa olate. Gegazali waho ow ortanni uparebjo evcibze su wocitfug uv mabi cihu vuwrap vedcaewa nozegato ol guhwasno akemiabe. Za ud betunru taeru awve liol rojapcez ubuwab ra wepuvujog gokrusesi fevit pa.",
+    "bio": "Wezhekar zacjifud icku fegwut ipej awa pi isepi joido sir lub do ihougu. Ujpora upaviega mu kunwuud fibvun wuuvosav uvi viksufce ku kanebediw cibveg uvnovden giwmowpu cokize dehobej. Beoni matote advojo mivrecbe ilohat vev jufcoglop asipuf eviifusa hu acuefu lahumu wo afze sap mezub cuh."
+  },
+  "apiKey": "d3c3ac35c22cdf1e147a6b8ec44f5bf661971a433aacbdd1bdabba4ae039706a",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}

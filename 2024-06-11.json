@@ -1,0 +1,26 @@
+{
+  "name": "Sean Dunn",
+  "age": 50,
+  "address": {
+    "street": "Memad Square",
+    "city": "Jakimem",
+    "state": "NV",
+    "zip": "25851"
+  },
+  "contact": {
+    "phone": "(483) 918-4677",
+    "servicePhone": "800186275"
+  },
+  "birthday": "1977-03-31T03:57:35.709Z",
+  "ip": "44.232.250.183",
+  "foo": "bar",
+  "profile": {
+    "about": "Foine fu za wod cedew ebelidle hur sin akwef por liv enivut meg. Or ocfi bid po od ej rihmede fuzlal tuhujo miv cej bo vaji wa fuvo. Zac tanvopfud pami ovevimha boc da kaja mekoli hipdisgov sez va zutrobi cuk zit. Pivodic cuegi bu pasfi sukow acuiv zowjozjam jipcuraf fog possi mif oki darufi vosuv vobavzot vattak. Lifiromir ifkiri dobsa jo uvo zecdibec olsohu melo wa gejfab nufbuco sigucib buf putbe.",
+    "bio": "Er cintero vanita pitaovi ulooj ke doh kided od vajladel imfulbot ge lako. Lac ifo nu kaut rebhij rulufiv ziz vuszut tooti fubijo zuzze humobuune ogucu terlesfoz zuzbo. Oh valoso ug hijipmek ramwip owmunha hi paffoc riotaeli mawra jamocro fuwad."
+  },
+  "apiKey": "90b4777444083d375744024dd201b7aa69ef3e5137cb4a4ec8c318ed83ca4d74",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}

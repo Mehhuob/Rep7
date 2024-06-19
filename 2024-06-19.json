@@ -1,0 +1,26 @@
+{
+  "name": "Adele Rodriguez",
+  "age": 31,
+  "address": {
+    "street": "Aszo Lane",
+    "city": "Laleik",
+    "state": "OH",
+    "zip": "09323"
+  },
+  "contact": {
+    "phone": "(570) 532-2011",
+    "servicePhone": "800481685"
+  },
+  "birthday": "1960-01-09T11:39:53.481Z",
+  "ip": "93.54.196.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Gebabsa ecusurob zura citibe rehdoplu uvuhe mari kid uzerijel bimze hu taud jawjur akavzav kamhufat afo gow wecbab. Onwijlav vi gu ozu biscogeba neek no wejhirmi riiho efdu atipe ciz pirsi. Kowja rov aba gujus bibak luola ni femuc cu zewtori va sojoiwi ma.",
+    "bio": "Ecoha lowpon lotzu mescabsuj ratafo lehu wa zuf cumun ri ze ubobaw vurotli wem mewol. Kibi ciidiniz iz poeseto serus ujiv vacpovi do fin cailbo hokuf hectafa. Turiho hege peskofaw azone ejima ur zerin hijketo fuj hiza nacal ziik bozapdal aco bi. So virjifah vif hemed fibzo sul edilakep mom fi saazha mepfi ho ijavi nigahibo sikowkac nalvagop fuhgepup lerhimer."
+  },
+  "apiKey": "fe67683e7a33f818c14be3de6ca37328d6193db11ca4384d88b805304d4845dd",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}

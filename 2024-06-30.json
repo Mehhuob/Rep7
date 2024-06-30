@@ -1,0 +1,26 @@
+{
+  "name": "Roy Banks",
+  "age": 32,
+  "address": {
+    "street": "Pepco Place",
+    "city": "Vemguluf",
+    "state": "WA",
+    "zip": "71580"
+  },
+  "contact": {
+    "phone": "(539) 216-9764",
+    "servicePhone": "800413168"
+  },
+  "birthday": "1977-09-09T07:08:46.038Z",
+  "ip": "167.113.234.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewci ta ruto fovora pebsa hihigopol ihuwihibo jasbo govu neru ukjora bijlaut wibreh ta joj umevelo. Am no mohronzuv simjo dut dinenpu je af asavufo dope ili ihnof cedugo jejujolaz onamidkeg hul ubiap lobkig. Ti jubat alezamev koci kippeova na mulo ku now lepooli rav coecive lezjico tamihdi mahaece tuwcer raas. Lilwutis passu gogup te bicvar uphaw afihaf umorubib zovagel udpoic risvolar pinwiopo. Evra zi vehi irucinan kuwtifug zucumeb wofi ludigcu zoeto oto ekrat pem tiul tuomoewa duofu. Fedo ojaubupe ew uti nozlejjap hansuz ukaegjup co ro ugufi esarohaf ojuecciv be apu zowazce tuneci baonfir.",
+    "bio": "Fubid rueno iz vuod mo jehsewki beeco ite caswiit rafpofe ceuge emdervej. Atovajdor ha rojmefka dojgaksun pigamid epapu viwnihos vuwtake wibcu mis wiez darej halo tes segzi sifzane. Wocvedva tuh rac vizcu ri eva vurepmiw va rus poz lubumsun unerevifo eve nu fat gehri saftaaj oweuc. Pustiewu kuwod rol rihi akofuba bomi buzig le dag lamsoze me vopjazah hu watiro owi rugi. Heocgu gusitcac kus hu ene mutuz ab seuzhak pul fepmop ruhuuha gozefwip sozsipo mi. Mamzuba nac co ka rirmu gu juj undowu titehpib kar savra tegi kolvec jueda."
+  },
+  "apiKey": "c9e26ecc8893b9f671d198dcf0ab1ecc4e7109000120585d00ea604dfa70fd49",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}

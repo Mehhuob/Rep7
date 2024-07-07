@@ -1,0 +1,26 @@
+{
+  "name": "Michael Roy",
+  "age": 43,
+  "address": {
+    "street": "Fokbaw River",
+    "city": "Nibaur",
+    "state": "MS",
+    "zip": "01464"
+  },
+  "contact": {
+    "phone": "(658) 476-2601",
+    "servicePhone": "800172811"
+  },
+  "birthday": "1966-12-31T08:31:41.816Z",
+  "ip": "85.104.75.165",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvud kanun sikudmuw lip afadjo li hoista pa won wok tikhaw pataeba vuvjadot laco zanevbew podesala uhmep wu. Lok sigsit zib ve uf ul rus evzil fob jigrabene ok cahvol pokolhur mufali som. Kib giw elimun geah giwcatam etipujku ote asma irwuma vu no we mulazi leb.",
+    "bio": "Po negi apioze gegdo dojual gejkotwe alu hujfed kijeza jif viwobih norogvot dewtid rigojvi. Cel numdib cukvoap wifuzi ocupe mem kuw derode ep vozumew voflodfe voupe cozo rehorji gikipo wu vape. Dene giruftu vijracbul rosma tilgemaj fobas huz tuhmukne doezaji ge ta bujlo woduj rod lascuev cu um mimhikju."
+  },
+  "apiKey": "f49ee019168c7e15562477ab3b39e5d2562c3de6271841467c4ff4821d162689",
+  "currency": {
+    "code": "SLL",
+    "name": "Sierra Leone Leone"
+  }
+}

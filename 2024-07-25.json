@@ -1,0 +1,26 @@
+{
+  "name": "Cecilia Bush",
+  "age": 56,
+  "address": {
+    "street": "Vodo Terrace",
+    "city": "Vuzzippa",
+    "state": "NE",
+    "zip": "73065"
+  },
+  "contact": {
+    "phone": "(662) 701-1499",
+    "servicePhone": "800787567"
+  },
+  "birthday": "1962-04-28T08:55:19.735Z",
+  "ip": "229.35.215.27",
+  "foo": "bar",
+  "profile": {
+    "about": "Guvhatah jawhohor efeufbij keh kela jebza doj wunebo cozu ikmupe op ived. Lo ag ristuir liksu fopboroj relop awetetut irajaf wog guwivu ter bov zi. Om wop jifiz curveva poz dowvimiz ticuma be joevail sa kartonuh lehamo kapoma.",
+    "bio": "Vazetija pek med ezsogbon buhhezdug gahamepa gecubiho dergi ve vigbuwe ur nujmil zov aja hitso nuwzarew ibabigu ubuma. Gascalu tosraih zate loviv kocsucjik kan gu picimaev wuw gil hok ne surju bol vipgizhu bebud omano demow. Kahtuf zom gerfok ihmo lojjif koksacef ham damuw sukazkis pipnugdu jegeana nuzrem."
+  },
+  "apiKey": "1f2643767f39074592966dea62e5d80ab70813729103040b5842b117e776c05d",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}

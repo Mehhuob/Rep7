@@ -1,0 +1,26 @@
+{
+  "name": "Matilda Floyd",
+  "age": 47,
+  "address": {
+    "street": "Nafi Glen",
+    "city": "Moekofa",
+    "state": "OR",
+    "zip": "49184"
+  },
+  "contact": {
+    "phone": "(523) 640-2408",
+    "servicePhone": "800883617"
+  },
+  "birthday": "1995-07-14T01:39:18.977Z",
+  "ip": "201.15.64.250",
+  "foo": "bar",
+  "profile": {
+    "about": "Watih inle abwe esoloncej ezibam nesva paji tejamezug lohderoj cavemab he becbe. Zuwsi figjajve mit cim emospa magu cof lupdut zamef mijcar arimekrus bujub sa pot. Ridav si fe efohifti paem rewfehab al vadlajmaw sazezku nipanga kaw ha bahjeoli. Mamillo ji hikjuttih vu pactif unlig penzota iwfoc huj gilukji eruji rah matvu gecehav opmuzev ridu owejogi.",
+    "bio": "Mebsuna cakretu ti lo ita ziw wacgut arjoc zaho ivadi dukpubbef buwis lolcuz. Bume umosuuz ivfarhig ji wezemov goriztu eclaz faadnij zanas riviube wo filjulrih gotvosak. Isocanrow tol zibuda pif ufetez kuduvusa hod dagej licog repkicsul jugobse ziwages caok fe obzeh tolij. Sib hosbo fodais neh reri huskedmu ilili iraev sezule vi bomuc nuhdeul uc mekjod. Inah cu irgiece uvdipmu tawmific newuk wabu ap cibmetcif fi huso en mepcipfo fo nu. Ganorura kufokah hogikmih ciince ehabuho resce rokotaef rocvawcu wu gu izopukvi ca keujipit je."
+  },
+  "apiKey": "42f0b23535da781e7ba5b12ce500dabf6ff280c05ccf718573b66f676dfd9f31",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}

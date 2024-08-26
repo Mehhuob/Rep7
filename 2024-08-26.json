@@ -1,0 +1,26 @@
+{
+  "name": "Victor Buchanan",
+  "age": 60,
+  "address": {
+    "street": "Toja Trail",
+    "city": "Uwkozeb",
+    "state": "MD",
+    "zip": "08549"
+  },
+  "contact": {
+    "phone": "(417) 224-1302",
+    "servicePhone": "800244555"
+  },
+  "birthday": "1989-05-01T10:45:53.345Z",
+  "ip": "51.194.28.84",
+  "foo": "bar",
+  "profile": {
+    "about": "Oni ba douno sehmo eze bunina tuznuc ife visipwe wiwroku voptinvob vojulo du li has etpa samu dipju. Gop wafgu et amoopa bawwirit eka parzed lukpi jev botor orij nektus danu vihopmiv. Dagavfec gebakfi woci pupnuraf esu udamak vojusobev hamde getpeh uf bohkibwu mapej. Gomnavdop hehfih renzi novlenpi co wafsu mo jub ecpej fapodij go ur musaz aflikfa ihedage tapiufo hesa embuktov. Hapdotaf ije sobeivu obe be ponheer dizijo wu pofiim nohef fuco racuzav uf. Zomga hasihomu oplopo soglu huip zubzev ez ibo pakwojef uge jafitej an gahob piligka vufin.",
+    "bio": "Ler tib gir gefez secvivrad bongopepe cef mugdat ma awuvakojo numi ah peraca gujwerbo kiwsupuv ruubulon opukunod rakag. Viplakner tic kowzew gicrus rabpiknid pab cukiaf ed go do gin gasmambi gegujver henhi sinza roicawe le ocso. Zapuek zefu uteomojah vap iv ukcem oznoza zitohim ileso ene titzic mudod tato."
+  },
+  "apiKey": "4d51925bbd37ed7378362c2b29cc78379c05b2cbb7c38545baeb71f274082f99",
+  "currency": {
+    "code": "ANG",
+    "name": "Netherlands Antilles Guilder"
+  }
+}

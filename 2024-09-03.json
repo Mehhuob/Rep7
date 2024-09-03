@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Perez",
+  "age": 46,
+  "address": {
+    "street": "Adata Highway",
+    "city": "Josudamu",
+    "state": "TN",
+    "zip": "83643"
+  },
+  "contact": {
+    "phone": "(465) 510-4184",
+    "servicePhone": "800491125"
+  },
+  "birthday": "2002-05-12T04:35:19.260Z",
+  "ip": "125.178.217.64",
+  "foo": "bar",
+  "profile": {
+    "about": "Peksum nahakfi gu kod janso ibe ta rowobe fu bempiro fejib cagsa fejmi. Falig rebjamuwo cok viul ropeb wo caca edina val porhud ruacauhe dugew wezkekge tokozum waj cod. Rumapla onfewuf lejba cuaza offa tacsu jeh bagefod jehbefu no govenjo mebos ikut pocwupen omugile biwo. Zoehe amco caere hemjaru cutzarum puham fab sub lus pa pacud herumfa der menul nesem. Mebu jobme zizpol ihhes jurage ezo wupaif sogfu gieviwa vivpun gegsol zit hicba nuhheuz pelabil sotgup. Nebpo la povad fud hakabgi hutewo ewu mo kuw biwluizi eh jezcinpiw.",
+    "bio": "Hiun avavub jauli biacalul vaem tezu wunuz veho lu bakif akva ri wuevo ikdovo gorcar hoc uwefizek nowdu. Salazeh ote kavegzu ta virrefso dirmevar tidekowi go oho veukope niug oge zoina kemumno hufoc suzpavim mazgomovi bezdare. Nevaow im wuv kivwan odmivna jakvehco kok joweciho muw ket teirokoc ulefeuj bippu levaj ri pit onomeam. Jujzadef gobomfo kumruvor vof fejal kehke gujur biiw ujamitoj anasug netganuj otegiruh vazubne zim. Bavako oti vaclojno bigkafkom divoje cemakziw kic nanuop wil hi cuh bipod lag wesmoul anu guz. Danboso dahewfu arfob suobiuv ebouvbo lecujro vewedkah sisjew losolo dikolkok pa pewi risjoh."
+  },
+  "apiKey": "2234287651f885588f35bef4e62d248b6b6e7c963dbfe29c2d37332d12478bcc",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}

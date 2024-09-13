@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Walton",
+  "age": 58,
+  "address": {
+    "street": "Ziffa Extension",
+    "city": "Macove",
+    "state": "CO",
+    "zip": "66933"
+  },
+  "contact": {
+    "phone": "(586) 784-5324",
+    "servicePhone": "800629943"
+  },
+  "birthday": "1987-09-21T02:25:28.148Z",
+  "ip": "199.68.171.26",
+  "foo": "bar",
+  "profile": {
+    "about": "Zakrohig doboreno ovageobi sajsihas wu uc feza paecawe ruaheip giif kossiji na uvefu koh eheucij. Reuvori sensizoza ji lu fazuh fi me tienewit ibgen peufi ezupafi wevo fiaso tian co. Wun vo pupvi eruelobud cipidad fuipuli konutkop rega rejvo owigot zidbo can aranel kogjow. Woresi fas ma ustalan go joz ut me fuvdefuwe bas faddafri ezotuma bah lidor gasjuzer owmihe iljev po.",
+    "bio": "Pul sef fejis nu nu ziawa howot ejta cujuce vu ha kuwzoub. Fu ratof forjasha fu huhcoki kufimo lam ru putpesag setniw laju vej. Kikvero mi usbut ucit keride golo fokuuzu cakina hem jiksiv woz weppawen kig ufajiiwo vofoev han madriwib."
+  },
+  "apiKey": "3b0316d93524a3b28dd07c8f89879b2aa93e6e31e4206266efc031e73352810b",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}

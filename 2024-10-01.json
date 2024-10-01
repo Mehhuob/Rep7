@@ -1,0 +1,26 @@
+{
+  "name": "Willie Cannon",
+  "age": 36,
+  "address": {
+    "street": "Lesu Turnpike",
+    "city": "Nutodado",
+    "state": "CT",
+    "zip": "07428"
+  },
+  "contact": {
+    "phone": "(452) 925-2787",
+    "servicePhone": "800395626"
+  },
+  "birthday": "2003-10-25T01:29:42.331Z",
+  "ip": "177.227.171.8",
+  "foo": "bar",
+  "profile": {
+    "about": "Ermadiji edukar wul dusgoj ma ab cu idlo jawuwgi garje muizo muacu fek omewu lerif. Kiodzab ceuko jarhozwef zuzuzip kudceha otueci dohiw fir ronsuroz ziniz fako id raksatu so il vif ace um. Pe kube cefifov ke so owo he zi ugza piucuma zin rudoce.",
+    "bio": "Ojlav ciokpud noroklin narhafuw paccandom iljukbe kagric vaem tossudwez zehhacelu zipzolug vezije ifahuv osubu jik gimep. Womicobim lorhaz ucob rin ajenalug ful vi patvudan eslut lofele lig ogvo atiwog emeate fubsuzi ebgijab heso bot. Egezokte puglubaz zepeku vu cel gatfe mobepe biv unu ejmos muza om jero."
+  },
+  "apiKey": "ab00f52e3f33eed06d9b5dfbf40c276254bb728f3ab57d070237d2264cd2cde5",
+  "currency": {
+    "code": "ZWD",
+    "name": "Zimbabwe Dollar"
+  }
+}

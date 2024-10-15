@@ -1,0 +1,26 @@
+{
+  "name": "Warren Allison",
+  "age": 65,
+  "address": {
+    "street": "Zibwa Street",
+    "city": "Unumuv",
+    "state": "KY",
+    "zip": "49972"
+  },
+  "contact": {
+    "phone": "(262) 688-6641",
+    "servicePhone": "800469654"
+  },
+  "birthday": "1986-02-04T06:28:25.689Z",
+  "ip": "21.154.224.172",
+  "foo": "bar",
+  "profile": {
+    "about": "Ho lo vafu nuwalu osutetta ut ihe vusroju daspan rab owumuk teguf calel ba pad tozev ra guptujih. Kahenulof hemrujem ginvuddal mep anu niti nitom ih rofawkid kicwi vu zocto cazan muhe ujajube biuzor pisekzoj. Osarar teijo zufgapi ne wuwzun venrukoz biwuzmij fajnud cusgubiw ohemi bes juki vur zi.",
+    "bio": "Mopavagun ji red nekap hin sesij cadpohu nunle nuccola rahjow cojafo dervomok. Dolhet zu jedof ripelupom jivig uf opozo bip nib com ze weketwuf jo rawzudpob idomofef kab locsuvda. Su tobopol sergabco ecjo nudhaf liwibi iga ce teep zo oz vibinan umi cojaror ip."
+  },
+  "apiKey": "38fb8a0f35f88123786e5f100702076d0767e63c12b200ec4147cac6c80f9de5",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}

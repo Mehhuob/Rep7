@@ -1,0 +1,26 @@
+{
+  "name": "Jack Frank",
+  "age": 34,
+  "address": {
+    "street": "Povgic Court",
+    "city": "Banlakca",
+    "state": "IN",
+    "zip": "85167"
+  },
+  "contact": {
+    "phone": "(257) 728-4640",
+    "servicePhone": "800647244"
+  },
+  "birthday": "1976-09-11T07:51:29.230Z",
+  "ip": "137.67.124.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Gob dug jelfasij tekcef ohnu sucat wigfeptol gek azgilpo ojuci se jowwizbiz juzjole vegok mipihar osmukki. Peb kaona maib ohuhueh sinjudfok ve di kocerog hi uf saduhjem ci fesoofo poc riad. Peil oju vo nuihni opcekwu ono argomzo femnuzhon tuhed go cufrak konme fo.",
+    "bio": "Reh okzubej huwa rimefoj aljiwsam ehu jumofef radzep busit bo bacihhuz isbavner alo. Hu muj gig imuzaz boktow adozi kaventi nuznoh zu awoewe alacow pudiena. Ce coro hozfig sezumhok nuijaka kuhgaup una bapabnub rac va sa gudof turaas poh pifhas carov tulubuv icpi. Waokauj wo sotaefi ho gu guzodi vosreuve juv oha ca hecpehbi zacib co. Ifumiz bi woczepwut lopzidev azo re afu ovpav hinwepvor wa mas izab de ku vanuroj cuudsik gekaogo."
+  },
+  "apiKey": "19956d8c0e20c554275347527cb63b10b07f24db48237cbd90a91bade6a5d6bf",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}

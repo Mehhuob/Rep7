@@ -1,0 +1,26 @@
+{
+  "name": "Delia Arnold",
+  "age": 18,
+  "address": {
+    "street": "Zemaf Manor",
+    "city": "Sutsurpih",
+    "state": "IN",
+    "zip": "59085"
+  },
+  "contact": {
+    "phone": "(477) 623-5251",
+    "servicePhone": "800296235"
+  },
+  "birthday": "1978-05-09T07:40:33.090Z",
+  "ip": "97.125.11.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Wu so zah vuzeme boko purwo fuw le tar ka pusig agibehhor. Opmah fokpuzaf weimo evoku kol jep ovtem ow darij jusa of fepkeve vubteldir lelub pokdoza bebeefe umsuduci ahepofam. Su siopaore cufagvej nesimsi wawgohi waw bomi vitel tove filbo orobazi riomgol tafzakwu we zetvuc. Aj zic dodijab ozo ibosicu zemil ha wafew fo se rir cuhigle.",
+    "bio": "Suaz matuwig kub ew fefsuc wuup roojtow dejnusip gebabar ka de waklu ziznesuh gagigkek fuvjam. Cime om get luf koc pamed fuded hevzeli obe sicdacke fo terzov ehmunmi vemfo. Sezi puzluf inelij tukufus valalgo huiju mehokawe fal umu ve zapaducaw ti seme ro lecagke tutni. Ko macwuri fefom tam wop ere gavutbu womorire ilelu te ra osiohegis nopihamic ri lu ihmuk. Kigas ru cenuto ezupuuf hoza apumigoz gum ruko vekivtav donveju kupbajrib pa cosvajusi. Ikkun fitwa teptewo lomkulfuv we up ruhopro togwalsa aj jizuke huwtezrit beris ukpat mu oj nonbeen fis gapunu."
+  },
+  "apiKey": "db13d345d876507e08bec94a7e0f5ca94a5e582d859f6b14cfc3f390c3726bdc",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}

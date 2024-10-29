@@ -1,0 +1,26 @@
+{
+  "name": "Daniel Jacobs",
+  "age": 39,
+  "address": {
+    "street": "Hewrin Square",
+    "city": "Digapzol",
+    "state": "ND",
+    "zip": "84299"
+  },
+  "contact": {
+    "phone": "(766) 529-6621",
+    "servicePhone": "800162299"
+  },
+  "birthday": "1988-12-14T10:30:40.126Z",
+  "ip": "78.17.167.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Kooda viwkoda pena veh fihazca mew kihwucsop minbu vih huv kewbadar joihufok et pizfab id muuwi umbabu. Zopet duit vapbew mahawob zefkaw pigboh ezdi hewi vabibne roranpat haholu ehdu luputzoj vawzu kirigag tetmetor. Ekabeuku gekin nab lote vacti vi re hema huhub fu oki ezevuor pimmip. Beufvo miji zakaz nek zi mimu socmud zejuvje ut eruovnuj ekefen ic mi imofa ipo pawju erwu. Baisuuto rasaddif uheadeko hesojo zebuhnil hokjoksav wazif hem peblo revuz pemmis awu.",
+    "bio": "Bolnoggi foibuiwi uha leipovok wovof ve iteja jetutid gap la saz fok taraf ni dor nev. Evoib upilo jooh erula vuwdu ne vazi tubivi vinkitire kouje su bibreluj ceit jipinfid. Edi kafone ocfo we cip iweevuma zi ekonu akugil bozez fehak aserac soirdi lukwa emacloc nenco immeuwo."
+  },
+  "apiKey": "0cfbe395d70ec43f4f71d52d9173fc088222856014bd480f810a79ac2e7b6f7e",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}

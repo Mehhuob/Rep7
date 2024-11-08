@@ -1,0 +1,26 @@
+{
+  "name": "Timothy Schmidt",
+  "age": 23,
+  "address": {
+    "street": "Konsa Drive",
+    "city": "Bisuha",
+    "state": "VT",
+    "zip": "48830"
+  },
+  "contact": {
+    "phone": "(925) 212-8204",
+    "servicePhone": "800815335"
+  },
+  "birthday": "1965-03-29T12:27:26.562Z",
+  "ip": "162.147.97.76",
+  "foo": "bar",
+  "profile": {
+    "about": "Bakopoheb pim ifioposu of tic hi de mekgu ez wu jubnuw kevewu lulodcop cokudah ew egiur kowkamsi ceki. Fo silkizuf taad sum ca civsu ni boktuv azioku azwiz zidde nefutwu sehopba bihobiw. Fi dujpagha ifejotkeb gotafad tetem vas gim gat bibob cowi jekow nig.",
+    "bio": "Ifeobefo ukotozzic olapit je ef saverfu te ataro kissaze futejjal jujucac fisij weku. Tof neso bisan eglagzi iladoncub diumeed ukmiifa rihju kezogcu owegib telerab tusnaremi narcepi. Erecehli ne uwzule lec ja ju ojiwakoc dikpujjez agkami nissamven optu fuplowol zokfodevo kiiwa. Tovca sic kehig eb wus uvvirtom du mag fu haha vo mo rissumev zafhimasa de detahow. Wiki hac ru adsa ono dawhawra nir horze ur emfitop fi uge wanej fotowetiw. Peir eprehoci dekizlid jigwim laffez mamir dotgakwi oseac ulu duwe imean zot maranopaz. Omima dugmuc korurbel siin wam noki uhapoze ezougnu hisol cejagezi daeka gu az roj guuf wifacit."
+  },
+  "apiKey": "8860a22f04914d4ebd51e8ffbcbecd02172cd0d95c42e73570def92cf7272e31",
+  "currency": {
+    "code": "KYD",
+    "name": "Cayman Islands Dollar"
+  }
+}

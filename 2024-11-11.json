@@ -1,0 +1,26 @@
+{
+  "name": "Lina Kim",
+  "age": 54,
+  "address": {
+    "street": "Pupeg Mill",
+    "city": "Vaehegu",
+    "state": "VA",
+    "zip": "13605"
+  },
+  "contact": {
+    "phone": "(865) 412-3936",
+    "servicePhone": "800246251"
+  },
+  "birthday": "1964-01-28T12:47:13.208Z",
+  "ip": "65.154.157.29",
+  "foo": "bar",
+  "profile": {
+    "about": "Da atzod jiuf luemkij kenuv baj fotegdew wi nu wuv fiwud cuzene. Roila biah fulazo vafuc bozvif hadi lawasid pukohuz gok fupnawan om madneja ji si mifbolgu basubok duwamvu zihajhif. Welgevpe zunib heimu wiwvinfo hi hikuhe fe amewaki zehek wijjiklip duahmu doog gaub. Gaecalon uc tieda tuhgut senme wo verizer gapop honvosev sooso ufeva calguhe nelohi medelkah soztucul hic. Kevnid kawel umiba guvdaz jed gekastet rovun abjobu bejwep mogi wimde je karzip wufluwmu ne sugako gun izepzu.",
+    "bio": "Legdum mo ovbo volupag gadun kajsosvad wabca hin enuvizev muvra tezim tuf paefolu. Ofome tacucow te pi naj cive balfij efgaruw ba nekivnin zusok ribgiwos fo jac cun sugo. Nakin mo cuki sutohuw hu bohud jaf jeza di ji ga fotal eg zadne. Figa fepzeggu waosi li zejre mitovud atucibir beob akpi ozkutu fepagi so lu iv ic pimsuema. Hocapze fuk romi wuvwur asli lal jazeivu insatuw iga laroloj basar sawdah hevi rukuv zoj kopdatu zugcadug raf."
+  },
+  "apiKey": "bc342700d3582f68842a8e42977dd9b038f39a6d56a31faf4111c7a8d3000b36",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}

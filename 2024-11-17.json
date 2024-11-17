@@ -1,0 +1,26 @@
+{
+  "name": "Jason Barrett",
+  "age": 21,
+  "address": {
+    "street": "Timat Lane",
+    "city": "Reahvut",
+    "state": "AR",
+    "zip": "82247"
+  },
+  "contact": {
+    "phone": "(461) 702-4514",
+    "servicePhone": "800343635"
+  },
+  "birthday": "1998-09-12T03:03:43.408Z",
+  "ip": "171.226.81.147",
+  "foo": "bar",
+  "profile": {
+    "about": "Fecpo pued api jaetiagi juetme hudik reccajoli de kuvogew carwi wot hujo. Gawzuig bumwen jabnamof pubboke jigep hu mi ga jifkuswob kujja nescez relte co bi usal. Cahned etosote carhe du te unogoeto vum kordawa piidodo laaboule kuvkowaw mucebogin opu wi ve zihavu. Timajrab hazob kuili ajmitwam su home ha kaz mo sacdupuh jo ozgarof pulvupcas ofzo owihehvo lasvuihu gefru focku. Gigda etu gul tubaw seobubi babkub jaabtum gowhe edaizi bimvuaj na vuuvjur tinga sobnoru jucso ho vizme na.",
+    "bio": "Atajorefi niot caku tod ureba sevuuce sa ritpiula jog lup woznozwi hitvi mujeeca pe ac cazoze. Iw on aghuf lulip fapom jacorezi iz zakegane cebek te voik ifusiaj kikhonhep peg rut wenzikje uzkaczuw pegsila. Gaz wabovtu kiava ofihawu me vohrejih fi ar mizkolsi gamok vuco begpenak hinochiw ikorem oni. Tifdul wew zutisuli col rub mechi dauba ve vis eku alrul othizcet cicidda divve wedawib ma vilomva. Vid nabcoh tudnouki ut rudtec lamak hisam mucupol umfuvesa virmerel camgaw lomuftef ka owuzoat zievsa kut. Tarezu na hirzizkic lop pa malev afewu lubigim edu pez bizpasgir awdodgic lugibu uhafubte luh tacrignu howoli luadiri. Feh irne lotop ba va rujfon usu gahebro pivpu ruwco awepewefu zak."
+  },
+  "apiKey": "695b6405e85220b2f959633b3bd84fd80a0ab6a94ea2c3e44df2ba2cc444e22e",
+  "currency": {
+    "code": "LTL",
+    "name": "Lithuania Litas"
+  }
+}

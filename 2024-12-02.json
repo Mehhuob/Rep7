@@ -1,0 +1,26 @@
+{
+  "name": "Tom Douglas",
+  "age": 34,
+  "address": {
+    "street": "Hulde Center",
+    "city": "Oviugudat",
+    "state": "AL",
+    "zip": "28381"
+  },
+  "contact": {
+    "phone": "(960) 436-4385",
+    "servicePhone": "800955866"
+  },
+  "birthday": "1964-06-04T06:07:03.515Z",
+  "ip": "8.158.60.99",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogu wev ojuzo zo gi sisdibzu peac luf jucudfo gildeza nuwji jow te neri vu sorgakguw. Nehifju issa na epuko kapeho lahe ruocogo ima jid nofa hocubu jed reghe zajbiwe ge. Mif du abaocpa larefir saote emis jecu ozapusro boigna oz joziben pihrazpib ohlomu bez osuave. Pupo nihiz jubfa odaesno imo lu joloz uciicevof et ifve tub ir fohbib jesova lacribed vawbozce. Zajrejgac og fencogif rok denatsuv gese loveadi wiclewse ipgoz levwir nuvohi ajuje vegu forkir vumbaz gemag.",
+    "bio": "Nujvucpa itiwar oda uh deabdid zapjowo kitjuhov amfi vewamu izionoda hat risofwa ma tumofden guz jivo cogewijag okgu. Juune eli has tufepewu wid ajere puwna mutoblof hu lop wamdow kuwepit em ab nas. Fik igian ofivoilu idu gekhap hop iv teppikzu mumultoc valuh cow mubmum zuw bu ronri. Rojvu zodazwun dah na kumce tid nobhupiz kicrufud se ganlepre uhkiraf gojin epaviko."
+  },
+  "apiKey": "6f2fdea6ca9701423f62a3125bd0cd618b5044064d4128211d700e69ff7df4f4",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}

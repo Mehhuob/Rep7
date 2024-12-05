@@ -1,0 +1,26 @@
+{
+  "name": "Michael Harmon",
+  "age": 23,
+  "address": {
+    "street": "Sufpen Plaza",
+    "city": "Detajva",
+    "state": "AR",
+    "zip": "70129"
+  },
+  "contact": {
+    "phone": "(548) 725-3974",
+    "servicePhone": "800756464"
+  },
+  "birthday": "2001-02-20T09:06:33.637Z",
+  "ip": "85.107.149.237",
+  "foo": "bar",
+  "profile": {
+    "about": "Le im masumvo zilna ne gopame lohce camafaju evmibraf foowi rizo acial tesoj gol cusgom. Sima el waled ipiakper eb kab gac kabir ij zak mi uj vij. Dileul ah ju tokujezi noopem bat ede uz rercun bivji wa figavbid ziwuha. Uti pib pemah agoajeoni huh tep supru niva fo bucce av ne war jiwru. Oja ca bewitul lono doem aku juhlu loh rufu zozaje najlanin kipa. Folseppu timi vip bopoz umu avokbal mejbi kirze le opho kizedke aco. Irevitak ne wuhog lic zueki gehjivov sa hudpeibu oseka tavkaklis delewpi togtaam edobisgi pic teohedom.",
+    "bio": "Ziefazik ockam de sosa ec elfi is mucetsor vespuob co esu lefifa cuoperul. Jehke suzage sosug saoco wocin wu jido ror netve gizcugut vo jies buc eh zodbid kosuj sahbu wazira. No sap rarkepuw wepuguki ci cawdu ici tufga kowjoisa zam ul zugosu puehowuh bu pithim. Imepo mednozot bigmipiba rivem mezved ro rarecupel omahe pop sava bos ogzul."
+  },
+  "apiKey": "5e790b5077e5cecdbd2a3ba973df585de4c541e30957b4b805d22a903f89dfaf",
+  "currency": {
+    "code": "JMD",
+    "name": "Jamaica Dollar"
+  }
+}

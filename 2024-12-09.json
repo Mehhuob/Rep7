@@ -1,0 +1,26 @@
+{
+  "name": "John Schwartz",
+  "age": 18,
+  "address": {
+    "street": "Asiis Pike",
+    "city": "Artasge",
+    "state": "KS",
+    "zip": "23515"
+  },
+  "contact": {
+    "phone": "(539) 954-6413",
+    "servicePhone": "800753717"
+  },
+  "birthday": "1996-02-08T02:47:58.963Z",
+  "ip": "37.179.189.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Geasba ureehgu corsi vigzid su vizal mosagpiz vueguvih dal metnefes jak iwe avgasuh loh nihis. Rup kojitoc simrec iju ra ohkonuh hozubim begbat bituhagu minpewweh tavodte jafjas usuwol beaz zu ejohu. Tuihju neblomhu bevus zutjolem viuc inoca el elcuoz ap muani vevojra botuuh wo.",
+    "bio": "Mu vota tadik ep gofzufi eki zip ci nisevo cemjutub tuha tucin saetati. Feri hauhuruk heuvrim fafboc tol pehiwci awipar ijbo ighijeto we kolpuhat romesoute vuatjet of toczuvev dip gijag. At ku gutne liguza uji kup nuhoefi wo cav tudhagda zolifabe ga eweda cocanno fatnodziz bafma."
+  },
+  "apiKey": "22acdc6776fc784513fe3a8beeba5dc24332837dd62f6359c698dad8d09fc987",
+  "currency": {
+    "code": "MGA",
+    "name": "Madagascar Ariary"
+  }
+}

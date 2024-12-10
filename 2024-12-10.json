@@ -1,0 +1,26 @@
+{
+  "name": "Alice Stevenson",
+  "age": 53,
+  "address": {
+    "street": "Nafon Square",
+    "city": "Wimcokaj",
+    "state": "MI",
+    "zip": "56033"
+  },
+  "contact": {
+    "phone": "(211) 617-2553",
+    "servicePhone": "800386397"
+  },
+  "birthday": "1982-01-14T09:27:36.614Z",
+  "ip": "18.116.116.5",
+  "foo": "bar",
+  "profile": {
+    "about": "Dun eb novupo rackel ujgifhe kecsu vor dona leve kop re jaemowed kitemuv erzi uv. Woannos dinjetuk riramnu fehzoso ba tekdehlab mu hisotucu us lonov govalu janiztev pe dal. Gaj emzugwid ova zeana hortarjug zibunhip owujule ujihogpo wuwop nifrew davpepal hilduja lopej es pecijoh hoh pise kuwvul. Vifdahow le izo el titalo emikumuj gu kawceg zafgize upepokbu anweul tabilo ohi.",
+    "bio": "Ruf suti guzaod duc pinuoca mauki rezlob dujijcob vokuglu ege mo opu bem vuj. Kigif izo ol duvmozujo uhuthug op nimvezjec cimoszuz aljuvur zazuw koc tif tih dah argouf cadodo ohsep. Jilufom niri nivafo pimac mameze nah pibzuvpih tak vodvuc tepi uraanela foid licemdo fuagce occes sipto. Delhitu irijuf sanah ceoj baw zuhap wuc hi sihecmuj regdi netubted va datujpob kaob ciked geg heop rip. Rilubap awpoj co ojrud wah cuw bubduzob onevehbo ta imu guljo manef wis ve delan vo opvewuri."
+  },
+  "apiKey": "f9bb6facf9e9a561848112c8915244c82b51fd15b806af0f3512261e2b3127a7",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}

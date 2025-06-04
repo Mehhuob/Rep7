@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Collins",
+    "age": 90,
+    "address": {
+        "street": "Jessica Circles",
+        "city": "Johnmouth",
+        "state": "New Hampshire",
+        "zip": "68311"
+    },
+    "contact": {
+        "phone": "227.971.4749",
+        "servicePhone": "800310231"
+    },
+    "birthday": "1935-22-11",
+    "ip": "114.12.68.44",
+    "foo": "bar",
+    "profile": {
+        "about": "Special cut left also. Ball commercial fact recent second far. Whom keep everyone happen they meeting professor.\nBoth five fish police assume collection allow. Almost improve that artist stay hear.",
+        "bio": "Make popular size push modern fast. Price who live morning science low.\nTeacher fear economy today share month.\nChoice put night government. Remain agent business fear. Stock involve night huge."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}

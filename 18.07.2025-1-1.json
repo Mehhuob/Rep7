@@ -1,0 +1,25 @@
+{
+    "name": "Mark Fox",
+    "age": 111,
+    "address": {
+        "street": "Chris Valley",
+        "city": "Andersonland",
+        "state": "Louisiana",
+        "zip": "13113"
+    },
+    "contact": {
+        "phone": "001-776-885-7783x34948",
+        "servicePhone": "800913887"
+    },
+    "birthday": "1914-24-11",
+    "ip": "189.20.142.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Well like western here instead. Be protect until bed Mrs culture simple. Week through cell store benefit. Natural event develop exist.\nStep first beautiful else over big. Letter claim detail past.",
+        "bio": "Poor test recently executive author meet. Discuss series necessary no be edge project. Major feel even whose standard its mind."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}

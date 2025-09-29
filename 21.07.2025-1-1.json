@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Thomas",
+    "age": 17,
+    "address": {
+        "street": "Martinez Coves",
+        "city": "Hendersonport",
+        "state": "Oklahoma",
+        "zip": "95886"
+    },
+    "contact": {
+        "phone": "+1-224-498-7325x3681",
+        "servicePhone": "800814267"
+    },
+    "birthday": "2008-09-08",
+    "ip": "164.81.204.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Religious information read it can.\nNetwork knowledge establish investment. Live father son TV stage financial.\nWait laugh dream could west young. Building assume summer begin federal move skill.",
+        "bio": "Mother six site buy involve wall. Happen support by so. Majority can wish even each."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}

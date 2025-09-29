@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy George",
+    "age": 4,
+    "address": {
+        "street": "Young Key",
+        "city": "Sarahburgh",
+        "state": "Louisiana",
+        "zip": "65465"
+    },
+    "contact": {
+        "phone": "608-340-9791x671",
+        "servicePhone": "800082417"
+    },
+    "birthday": "2021-30-08",
+    "ip": "222.11.237.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Magazine everything blood consider all how. Party entire whom wall sell deep.\nTo cover grow himself money. Choice these place fish home century hit. Thing campaign enjoy finish interview bit.",
+        "bio": "Imagine something foreign bed laugh. Sea produce side civil.\nSing purpose yes figure alone three. Choose describe election film."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}

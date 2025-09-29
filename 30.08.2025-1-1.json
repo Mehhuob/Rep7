@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Phillips",
+    "age": 11,
+    "address": {
+        "street": "Carl Springs",
+        "city": "Rebekahtown",
+        "state": "Nevada",
+        "zip": "16093"
+    },
+    "contact": {
+        "phone": "001-218-554-4945x7479",
+        "servicePhone": "800050837"
+    },
+    "birthday": "2014-16-07",
+    "ip": "15.70.58.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Light turn agree pay rule. Daughter lawyer support play whose card.\nOrganization perhaps task pattern. Current himself effect forget common moment moment.",
+        "bio": "Thus my position. Sometimes why face medical upon production produce. Staff win local quite foot road provide."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Virginia Smith",
+    "age": 87,
+    "address": {
+        "street": "Kimberly Spring",
+        "city": "Port Michealborough",
+        "state": "South Dakota",
+        "zip": "39751"
+    },
+    "contact": {
+        "phone": "(816)880-1593",
+        "servicePhone": "800085229"
+    },
+    "birthday": "1938-24-03",
+    "ip": "46.144.253.217",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter bad place matter answer price. Property value news avoid become true today. Place person character room.\nOwner gas push approach loss.",
+        "bio": "Number brother red chair heavy store. Paper sea make behind office business.\nSoldier former say mission single father. Its foot than me fly leg challenge. Front beyond wait.\nMarket lose that happy."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}

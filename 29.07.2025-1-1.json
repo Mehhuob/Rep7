@@ -1,0 +1,25 @@
+{
+    "name": "Brian Williams",
+    "age": 103,
+    "address": {
+        "street": "Stephanie Falls",
+        "city": "Lake Luis",
+        "state": "South Dakota",
+        "zip": "99373"
+    },
+    "contact": {
+        "phone": "4795701591",
+        "servicePhone": "800095793"
+    },
+    "birthday": "1922-14-05",
+    "ip": "44.39.163.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain often up able. Focus plant join ball fact physical whether. Strategy give simply enter pass answer list.",
+        "bio": "Miss and without own. Budget involve stay.\nMrs share surface turn expert senior green. Citizen together professional imagine so. Letter place partner tax."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}

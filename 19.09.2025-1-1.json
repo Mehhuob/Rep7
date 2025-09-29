@@ -1,0 +1,25 @@
+{
+    "name": "Jared James",
+    "age": 18,
+    "address": {
+        "street": "Lawrence Forges",
+        "city": "Jasonchester",
+        "state": "Georgia",
+        "zip": "71472"
+    },
+    "contact": {
+        "phone": "001-674-841-1523x343",
+        "servicePhone": "800641845"
+    },
+    "birthday": "2007-12-10",
+    "ip": "156.149.90.50",
+    "foo": "bar",
+    "profile": {
+        "about": "So road radio management really. Never especially almost present behind production one political.",
+        "bio": "Back service owner which any. Like too benefit. Team that evidence produce number leg purpose.\nHelp affect court find always modern. Month that people control area. South example man someone."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}

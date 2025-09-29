@@ -1,0 +1,25 @@
+{
+    "name": "Christine Smith",
+    "age": 10,
+    "address": {
+        "street": "Steve Stream",
+        "city": "North James",
+        "state": "Michigan",
+        "zip": "43344"
+    },
+    "contact": {
+        "phone": "9744096649",
+        "servicePhone": "800173268"
+    },
+    "birthday": "2015-24-10",
+    "ip": "133.127.247.202",
+    "foo": "bar",
+    "profile": {
+        "about": "All result indeed suffer threat form. Agreement five maintain account marriage.\nWorry travel heart lead fire challenge. Science such such many anything.",
+        "bio": "When moment spring bag deal general. Page may success beautiful prepare audience. It door better individual."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Robert Butler",
+    "age": 38,
+    "address": {
+        "street": "Elliott Ranch",
+        "city": "East Rubenland",
+        "state": "Kentucky",
+        "zip": "04988"
+    },
+    "contact": {
+        "phone": "+1-694-207-1486x170",
+        "servicePhone": "800983851"
+    },
+    "birthday": "1987-07-10",
+    "ip": "33.28.118.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Good politics note physical purpose lot sometimes. Difference process day away. Level place camera however.",
+        "bio": "Low soldier exactly rock offer family sense. Both decide very west owner. Decade stuff represent significant."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}

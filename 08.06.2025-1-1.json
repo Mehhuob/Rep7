@@ -1,0 +1,25 @@
+{
+    "name": "Katie Bass",
+    "age": 1,
+    "address": {
+        "street": "Jones Plains",
+        "city": "Dustinmouth",
+        "state": "Iowa",
+        "zip": "09915"
+    },
+    "contact": {
+        "phone": "2596548546",
+        "servicePhone": "800964588"
+    },
+    "birthday": "2024-18-03",
+    "ip": "44.237.32.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Approach dark local site teacher take oil. Buy onto rule range eye up.\nPopular country read south. Night clearly campaign glass however must support figure.",
+        "bio": "Consider red station customer company low. Key year artist now hotel defense think. Man method something pick enough example Mr. Your everybody personal without physical resource."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}

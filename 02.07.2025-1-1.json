@@ -1,0 +1,25 @@
+{
+    "name": "Angela Hall MD",
+    "age": 93,
+    "address": {
+        "street": "Miller Burg",
+        "city": "Port Eileen",
+        "state": "North Dakota",
+        "zip": "49447"
+    },
+    "contact": {
+        "phone": "001-255-541-5037x05609",
+        "servicePhone": "800568339"
+    },
+    "birthday": "1932-21-05",
+    "ip": "10.143.16.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Discuss price big popular talk though. Campaign that animal note situation work heavy.",
+        "bio": "Campaign case over strong return throw. Move town part old pay.\nCell computer number hotel small number. Success professor land from what end sister. List bag form thus.\nSkin agree key customer sea."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}

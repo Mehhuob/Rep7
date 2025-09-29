@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Randall",
+    "age": 73,
+    "address": {
+        "street": "Farmer Corner",
+        "city": "Joshuahaven",
+        "state": "Wyoming",
+        "zip": "23608"
+    },
+    "contact": {
+        "phone": "(369)793-1227x166",
+        "servicePhone": "800027924"
+    },
+    "birthday": "1952-29-04",
+    "ip": "3.251.0.107",
+    "foo": "bar",
+    "profile": {
+        "about": "What edge compare much subject factor. Wind often rock amount Mrs begin. Feel very race.",
+        "bio": "Bed cultural camera represent. Popular occur left well agree into.\nMessage ask then decide authority firm.\nYes do sell person do agency as. Even easy they cover understand."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}

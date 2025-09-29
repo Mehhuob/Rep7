@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Schmitt",
+    "age": 49,
+    "address": {
+        "street": "Blackwell Courts",
+        "city": "Bennettmouth",
+        "state": "Nebraska",
+        "zip": "40639"
+    },
+    "contact": {
+        "phone": "+1-466-719-4673",
+        "servicePhone": "800161486"
+    },
+    "birthday": "1976-25-05",
+    "ip": "91.117.229.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Speech how follow technology office sea campaign raise. Person line camera follow many accept. Own so drive lawyer relate laugh sign.",
+        "bio": "Trip beautiful day tough take help. Mention street who me growth day. Kitchen should station.\nAbility oil wear hard beat check base. Give deal and song tax it four. Across pass which."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

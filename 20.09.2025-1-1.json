@@ -1,0 +1,25 @@
+{
+    "name": "Carolyn Gonzalez",
+    "age": 71,
+    "address": {
+        "street": "Hernandez Lodge",
+        "city": "Kirkmouth",
+        "state": "Nebraska",
+        "zip": "41482"
+    },
+    "contact": {
+        "phone": "+1-779-827-8385x6438",
+        "servicePhone": "800482063"
+    },
+    "birthday": "1954-03-01",
+    "ip": "64.210.13.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Economy standard certain. Camera manager peace effort act indeed relationship state.\nFloor mother power necessary example crime sign. Than image night development late week adult. West gun alone it.",
+        "bio": "Actually prove affect mother check sea. Often lose skill worker office deep really floor. Source campaign expect probably player industry."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Henderson",
+    "age": 81,
+    "address": {
+        "street": "Powers Pass",
+        "city": "Whiteville",
+        "state": "Connecticut",
+        "zip": "94078"
+    },
+    "contact": {
+        "phone": "9022310682",
+        "servicePhone": "800202827"
+    },
+    "birthday": "1944-25-08",
+    "ip": "173.119.54.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle industry opportunity after road feel. Choice lot over property.\nReady operation sense wait management adult remember. Attention people full suggest. Huge modern population policy staff.",
+        "bio": "Let everybody teacher drive. Economic someone upon week evidence through."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "name": "John Sanchez",
+    "age": 26,
+    "address": {
+        "street": "Caleb Trail",
+        "city": "Flemingborough",
+        "state": "Florida",
+        "zip": "23648"
+    },
+    "contact": {
+        "phone": "(872)902-1644",
+        "servicePhone": "800341412"
+    },
+    "birthday": "1999-28-02",
+    "ip": "14.193.124.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Condition manager station else. West community away court blue stage century senior. Behind machine side north.\nYour remain probably several down. Standard ready carry mother moment form thousand.",
+        "bio": "Finish remember free newspaper health somebody. Others really suggest.\nProgram laugh forward. Government force big mouth long."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}

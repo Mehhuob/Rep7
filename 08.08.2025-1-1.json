@@ -1,0 +1,25 @@
+{
+    "name": "Brian Harrington",
+    "age": 85,
+    "address": {
+        "street": "Sandoval Plaza",
+        "city": "Robinton",
+        "state": "Iowa",
+        "zip": "45576"
+    },
+    "contact": {
+        "phone": "607.787.7632",
+        "servicePhone": "800343011"
+    },
+    "birthday": "1940-17-03",
+    "ip": "213.58.180.24",
+    "foo": "bar",
+    "profile": {
+        "about": "When strong interview science. Behind arm hear affect ahead.\nItem people event soon everything conference. Ahead church system reach.",
+        "bio": "Structure herself fine Mr though. Everybody since assume alone young future. Others consider cold itself senior together. Life laugh president."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
